@@ -1,2 +1,0 @@
-# Privacidad
-Created with CodeSandbox
